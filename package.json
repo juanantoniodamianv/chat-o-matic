@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:juanantoniodamianv/chat-o-matic.git",
+  "author": "Juan Antonio Damian Vargas <juanantoniodamianv@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
